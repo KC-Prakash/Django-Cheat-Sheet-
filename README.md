@@ -123,8 +123,5 @@ admin.site.register(MyModel)
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-Regards : Engr Umair
+Regards : Engr Umair [Facebook](https://www.facebook.com/umair.choudhary.9494/)
 ## Follow Me On Facebook
-More cheat sheets on the way!
-
-[Facebook](https://www.facebook.com/umair.choudhary.9494/)
